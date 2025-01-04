@@ -4,6 +4,8 @@ The aim of this work is to create a game working with the principles of gravitat
 simplified model of a gravitational slingshot maneuver. Note: this is a simplified simulation. Gravity assist in real 
 life is affected by a large numbers of parameters.
 
+This project was created as part of the coursework at the Czech Technical University, Faculty of Information Technology, for the BI-PYT course.
+
 ### Used libraries:
 - pygame 2.1.2 
 - SDL 2.0.18
