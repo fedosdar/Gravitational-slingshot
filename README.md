@@ -35,17 +35,3 @@ planet
 - Player can pause the game using **Pause** button
 - Player can launch the spacecraft using **Velocity** button. The more distance from the staring point, the more
 will be velocity
-
-## Controls
-
-![Main menu](https://gitlab.fit.cvut.cz/BI-PYT/B221/fedosdar/-/raw/semestral/images/PYT1.png)
-
-- To start a new simulation in **solar system** press **"Solar system"**
-- To start a new simulation in **random system** press **"Random system"**
-- To exit the game press **"Exit"**
-
-![Game field](https://gitlab.fit.cvut.cz/BI-PYT/B221/fedosdar/-/raw/semestral/images/PYT2.png)
-- To exit to **main menu** press **"Exit"**
-- To **pause** the game press **"Pause"**. To *unpause* the game press the same button
-- To set *velocity* of the spacecraft press **"Velocity"**. Note, that the game will be automatically paused. To set 
-velocity pick any point at screen with mouse and press **left mouse button**. The game will be automatically resumed
